@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppAcctivity</string>
+    <string name="boton_primero">Enviar</string>
+    <string name="tv1">Primer Activity</string>
+    <string name="boton_segundo">Regresar</string>
+    <string name="tv2">Segundo Activity</string>
+</resources>
